@@ -13,7 +13,7 @@ Welcome to my Github profile! I'm Suraj Mahakud, a Computer Science Engineer
 💬 Ask me about: Feel free to ask me about anything related to Technology
 
 
-📫 How to reach me: You can reach me via surajmahakud.sm@gmail.com or connect with me on https://www.linkedin.com/in/suraj-mahakud-1059a3196/
+📫 How to reach me: You can reach me via surajmahakud@outlook.com or connect with me on https://www.linkedin.com/in/suraj-mahakud-1059a3196/
 
 
 😄 Pronouns: He/Him
