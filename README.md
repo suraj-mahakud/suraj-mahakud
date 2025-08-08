@@ -4,10 +4,7 @@ Welcome to my Github profile! I'm Suraj Mahakud, a Computer Science Engineer
 🔭 Currently Working On: I am currently working on Web
 
 
-🌱 Currently Learning: I am currently learning Flutter
-
-
-👯 Looking to collaborate on: I am interested in collaborating on Projects
+👯 Looking to collaborate on: I am interested in collaborating on Open Source Projects
 
 
 💬 Ask me about: Feel free to ask me about anything related to Technology
